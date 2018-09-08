@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: InsigniaTaken
+## Version: 1.00
+## Notes: Hides the "Insignia taken" error message when somebody loots your corpse inside a battleground.
+
+InsigniaTaken.lua
